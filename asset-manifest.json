@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Login-Page/static/css/main.de09bc14.css",
+    "main.js": "/Login-Page/static/js/main.f6a1bf5f.js",
+    "static/js/453.9c5d69c4.chunk.js": "/Login-Page/static/js/453.9c5d69c4.chunk.js",
+    "index.html": "/Login-Page/index.html",
+    "main.de09bc14.css.map": "/Login-Page/static/css/main.de09bc14.css.map",
+    "main.f6a1bf5f.js.map": "/Login-Page/static/js/main.f6a1bf5f.js.map",
+    "453.9c5d69c4.chunk.js.map": "/Login-Page/static/js/453.9c5d69c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de09bc14.css",
+    "static/js/main.f6a1bf5f.js"
+  ]
+}
